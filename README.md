@@ -122,7 +122,7 @@ graph LR
 1. **Clone Repository**:
    ```bash
    git clone https://gitlab.objects.ws/laravel/engy-pos.git
-   cd Points-Of-Sale
+   cd Points-Of-Sales
    ```
 
 2. **Install Dependencies**:
